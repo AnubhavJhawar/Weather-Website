@@ -1,1 +1,1 @@
-# Weather-website
+# Weathery is a weather website 
